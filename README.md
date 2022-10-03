@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-[- Live Site URL: ](https://stunning-monstera-dd8b17.netlify.app/)
+- Live Site URL: [(https://stunning-monstera-dd8b17.netlify.app/)]
 
 ### Built with
 
