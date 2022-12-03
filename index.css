@@ -130,7 +130,7 @@ p {
 }
 
 /* desktop */
-@media (min-width: 80em) {
+@media (min-width: 65em) {
   .container {
     width: 1110px;
     height: 446px;
